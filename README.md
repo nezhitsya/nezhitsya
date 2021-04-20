@@ -25,4 +25,4 @@
 [![Nezhitsya's github stats](https://github-readme-stats.vercel.app/api?username=nezhitsya)](https://github.com/nezhitsya/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nezhitsya&layout=compact)](https://github.com/nezhitsya/github-readme-stats)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&text=Bye👋🏻&fontAlign=80&fontAlignY=40&color=gradient)
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&text=👊🏻&fontAlign=80&fontAlignY=40&color=gradient)
