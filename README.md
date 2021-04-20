@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Waving!&fontAlign=80&fontAlignY=40&color=gradient)
+![Dayeong](https://capsule-render.vercel.app/api?type=waving&height=200&text=Waving!&fontAlign=80&fontAlignY=40&color=gradient)
 [![Nezhitsya's github stats](https://github-readme-stats.vercel.app/api?username=nezhitsya)](https://github.com/nezhitsya/github-readme-stats)
 
 
