@@ -6,3 +6,4 @@
 </p>
 
 [![Nezhitsya's github stats](https://github-readme-stats.vercel.app/api?username=nezhitsya)](https://github.com/nezhitsya/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nezhitsya&layout=compact)](https://github.com/nezhitsya/github-readme-stats)
