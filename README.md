@@ -1,4 +1,4 @@
-![Dayeong](https://capsule-render.vercel.app/api?type=waving&height=200&text=Dayeong&fontAlign=80&fontAlignY=40&color=gradient)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Dayeong&fontAlign=80&fontAlignY=40&color=gradient)
 
 <p align='center'>
   <img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/"/>
@@ -7,3 +7,5 @@
 
 [![Nezhitsya's github stats](https://github-readme-stats.vercel.app/api?username=nezhitsya)](https://github.com/nezhitsya/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nezhitsya&layout=compact)](https://github.com/nezhitsya/github-readme-stats)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&text=Bye👋🏻&fontAlign=80&fontAlignY=40&color=gradient)
